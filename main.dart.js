@@ -58112,7 +58112,7 @@ bx(){this.cs()
 this.c8()
 this.ih()}}
 A.uJ.prototype={
-aj(){return new A.Ko(A.c(["> checking vorkytaka.status...","> age: 32 \u2713","> company: Yandex \u2713","> level: Senior Flutter Dev \u2713","> favorite_drink: \ud83c\udf7a beer \u2713","> favorite_game: Team Fortress 2 \u2713","> beers_consumed: [calculating...] \u221e","> You shipped 30 years flawlessly.","> No crashes. No rollbacks.","> Just great code & cold beer.","> Happy Birthday, bro! \u2764\ufe0f"],t.s))}}
+aj(){return new A.Ko(A.c(["> checking vorkytaka.status...","> age: 32 \u2713","> company: Yandex \u2713","> level: Senior Flutter Dev \u2713","> favorite_drink: \ud83c\udf7a beer \u2713","> favorite_game: Team Fortress 2 \u2713","> beers_consumed: [calculating...] \u221e","> You shipped 32 years flawlessly.","> No crashes. No rollbacks.","> Just great code & cold beer.","> Happy Birthday, bro! \u2764\ufe0f"],t.s))}}
 A.Ko.prototype={
 ao(){this.aN()
 this.my()},
